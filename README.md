@@ -1,4 +1,4 @@
-###Code for downloading Gdrive Contents to a spreadsheet
+Code for downloading Gdrive Contents to a spreadsheet
 
 * Copy the code
 * Go to the Top level Google drive in which you want the contents listed
